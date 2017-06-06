@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plarnpoung</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_food_list">FoodListActivity</string>
+    <string name="title_activity_food_insert">foodInsertActivity</string>
+    <string name="title_activity_food_calculate">FoodCalculateActivity</string>
+</resources>
